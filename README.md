@@ -1,5 +1,5 @@
 # Heroku-termux
-1 tool php install heroku on termux.
+A simple and fast heroku installation tool on termux
 
 
 You can install heroku on termux with just this command without downloading the file above:
